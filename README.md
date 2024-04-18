@@ -13,8 +13,10 @@ Our software represents a groundbreaking advancement in addressing the communica
 ## Link to product walkthrough
 [link to video](Link-here)
 Add your ppt to your repository  
-## OUTPUT
-![Uploading Screenshot 2024-04-18 081945.png…]()
+## OUTPUTS
+![Screenshot 2024-04-18 082149](https://github.com/urbanxtreme/Magnathon2.0/assets/152000292/0273b3dd-bf93-48e3-8c71-ed2160c429f0)
+
+
 
 ## How it Works ?
 This code is a Python program that aims to detect and recognize hand signs using computer vision and machine learning techniques.
