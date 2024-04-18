@@ -85,4 +85,12 @@ Certainly! Here's how you can explain the configuration process as if you've alr
 By following these steps, I successfully configured the program to meet my needs and have it ready for use. It was a comprehensive process, but it ensured that the program worked seamlessly and met all my requirements.
 
 ## How to Run
-Instructions for running
+To run this program:
+1. Ensure you have all the necessary dependencies installed. You can install them using pip if you haven't already:
+   pip install opencv-python mediapipe scikit-learn pymysql pyttsx3 cryptography
+2. Place all your image data for training in the `data` directory.
+3. Uncomment the lines `#collect_imgs()`, `#create_dataset()`, and `#train_classifier()` if you need to collect new images, create a dataset, and train the classifier respectively. These steps are optional if you already have a trained model and dataset.
+4. Ensure you have the required image files (`icon.png`, `bg.png`, `bdb.png`, `openeye.png`, `closeye.png`, `openeye1.png`, `closeye1.png`) in the same directory as your Python script.
+5. Run the Python script. This will open a GUI window where you can sign in or register. Once signed in, you can start hand sign detection and explore other functionalities like adding, learning, and translating hand signs. Depending on the options selected during registration or sign-in, you may also get audio output for detected hand signs.
+
+Remember to handle the database setup separately according to your environment. Also, make sure to adjust any file paths or configurations as needed for your specific setup.
