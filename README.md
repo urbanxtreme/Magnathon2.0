@@ -11,12 +11,21 @@ Our software represents a groundbreaking advancement in addressing the communica
 - Harigovind P Nair
 
 ## Link to product walkthrough
-[link to video](Link-here)
 Add your ppt to your repository  
 ## OUTPUTS
+![Screenshot 2024-04-18 081945](https://github.com/urbanxtreme/Magnathon2.0/assets/152000292/d0a7c5dc-7c52-43c1-89be-443f93e24958)
 ![Screenshot 2024-04-18 082149](https://github.com/urbanxtreme/Magnathon2.0/assets/152000292/0273b3dd-bf93-48e3-8c71-ed2160c429f0)
-
-
+![Screenshot 2024-04-18 082204](https://github.com/urbanxtreme/Magnathon2.0/assets/152000292/87c7a59b-d224-41aa-ab10-0923a90ac331)
+![Screenshot 2024-04-18 082330](https://github.com/urbanxtreme/Magnathon2.0/assets/152000292/b609a6c2-db4c-42f4-aed2-612e8367d95c)
+![Screenshot 2024-04-18 082340](https://github.com/urbanxtreme/Magnathon2.0/assets/152000292/36603774-be35-49a8-b5e0-dd9975dbd7e2)
+![Screenshot 2024-04-18 082459](https://github.com/urbanxtreme/Magnathon2.0/assets/152000292/d864a8e0-0d59-4f1f-9907-5415d776d11a)
+![Screenshot 2024-04-18 085942](https://github.com/urbanxtreme/Magnathon2.0/assets/152000292/a19de8a7-c458-40d2-a18a-6aed3f5d2d1d)
+![Screenshot 2024-04-18 090107](https://github.com/urbanxtreme/Magnathon2.0/assets/152000292/ea66bec5-ff8e-4798-afbc-fb30e1386a12)
+![Screenshot 2024-04-18 090141](https://github.com/urbanxtreme/Magnathon2.0/assets/152000292/7813bee0-0edc-4742-961f-9634dcdf5780)
+![Screenshot 2024-04-18 090227](https://github.com/urbanxtreme/Magnathon2.0/assets/152000292/28c6effb-c68d-470b-98b7-c3a5d106e33c)
+![Screenshot 2024-04-18 090409](https://github.com/urbanxtreme/Magnathon2.0/assets/152000292/10e527d6-9109-4070-b708-e382c6501745)
+![Screenshot 2024-04-18 090425](https://github.com/urbanxtreme/Magnathon2.0/assets/152000292/8b406002-8711-4546-b4da-07a1fbfc9841)
+![Screenshot 2024-04-18 090500](https://github.com/urbanxtreme/Magnathon2.0/assets/152000292/65b03734-709e-4f64-a802-6c74df4c058b)
 
 ## How it Works ?
 This code is a Python program that aims to detect and recognize hand signs using computer vision and machine learning techniques.
@@ -30,7 +39,6 @@ This code is a Python program that aims to detect and recognize hand signs using
 7. **Additional Functionality**: The `newsigns()` function provides options for users to import hand sign images, confirm hand sign registration, and check detected hand signs. It interacts with other modules (`collect_imgs.py`, `create_dataset.py`, `train_classifier.py`, `inference_classifier.py`) to perform these tasks.
 
 Overall, this code demonstrates a complete pipeline for hand sign detection and recognition, from data collection to model training and real-time inference using a graphical user interface.
-
 
 ## Libraries used
 1. OpenCV
