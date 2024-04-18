@@ -9,11 +9,12 @@ Our software represents a groundbreaking advancement in addressing the communica
 - Induchoodan VS
 - Sofiya B
 - Harigovind P Nair
-- 
+
 ## Link to product walkthrough
 [link to video](Link-here)
 Add your ppt to your repository  
-Also Add the name below.
+## OUTPUT
+![Uploading Screenshot 2024-04-18 081945.png…]()
 
 ## How it Works ?
 This code is a Python program that aims to detect and recognize hand signs using computer vision and machine learning techniques.
