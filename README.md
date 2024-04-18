@@ -51,15 +51,16 @@ This code is a Python program that aims to detect and recognize hand signs using
 Overall, this code demonstrates a complete pipeline for hand sign detection and recognition, from data collection to model training and real-time inference using a graphical user interface.
 
 ## Libraries used
-1. OpenCV
-2. MediaPipe
-3. Pickle
-4. Scikit-learn
-5. Tkinter
-6. NumPy
-7. Random
-8. PyMySQL
-9. Cryptography
+1. openCV: 4.9.0.80
+2. mediaPipe: 0.10.11
+3. pickle: 0.3.0
+4. scikit-learn: 1.4.2
+5. tkinter: 0.1
+6. numPy: 1.26.4
+7. random: 1.0.0
+8. pyMySQL: 1.1.0
+9. cryptography: 42.0.5
+10. pyttsx3: 2.90
 
 ## How to configure
 Certainly! Here's how you can explain the configuration process as if you've already done it:
