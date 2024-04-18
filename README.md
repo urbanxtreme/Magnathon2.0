@@ -11,7 +11,8 @@ Our software represents a groundbreaking advancement in addressing the communica
 - Harigovind P Nair
 
 ## Link to product walkthrough
-Add your ppt to your repository  
+[SIGNET presentation.pdf](https://github.com/urbanxtreme/Magnathon2.0/files/15020632/SIGNET.presentation.pdf)
+
 ## OUTPUTS
 ## SIGN IN PAGE
 ![Screenshot 2024-04-18 081945](https://github.com/urbanxtreme/Magnathon2.0/assets/152000292/d0a7c5dc-7c52-43c1-89be-443f93e24958)
