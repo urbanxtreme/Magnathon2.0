@@ -48,8 +48,6 @@ This code is a Python program that aims to detect and recognize hand signs using
 6. **Inference (Detection)**: The `inference_classifier()` and 'audiowork()' functions implement real-time hand sign detection using the trained model. It creates a GUI application using Tkinter where users can start the detection process. The application accesses the webcam, captures frames, detects hand signs in the frames, and predicts the corresponding hand sign using the trained model. Detected hand signs are displayed on the screen along with the webcam feed.
 7. **Additional Functionality**: The `newsigns()` function provides options for users to import hand sign images, confirm hand sign registration, and check detected hand signs. It interacts with other modules (`collect_imgs.py`, `create_dataset.py`, `train_classifier.py`, `inference_classifier.py`) to perform these tasks.
 
-Overall, this code demonstrates a complete pipeline for hand sign detection and recognition, from data collection to model training and real-time inference using a graphical user interface.
-
 ## Libraries used
 1. openCV: 4.9.0.80
 2. mediaPipe: 0.10.11
@@ -63,8 +61,6 @@ Overall, this code demonstrates a complete pipeline for hand sign detection and 
 10. pyttsx3: 2.90
 
 ## How to configure
-Certainly! Here's how you can explain the configuration process as if you've already done it:
-
 1. **Setting up the Environment**:
    - I started by ensuring that Python is installed on my computer. If not, I downloaded and installed Python from the official website.
 2. **Library Installation**:
@@ -82,8 +78,6 @@ Certainly! Here's how you can explain the configuration process as if you've alr
    - Once everything was configured and tested successfully, I ran the program by executing the main Python file. This launched the program, and I was able to interact with it using the graphical user interface.
 8. **Additional Customization**:
    - Depending on my specific requirements, I made additional customizations to the program. This could include adding new features, modifying existing functionalities, or integrating with other systems or services.
-
-By following these steps, I successfully configured the program to meet my needs and have it ready for use. It was a comprehensive process, but it ensured that the program worked seamlessly and met all my requirements.
 
 ## How to Run
 To run this program:
